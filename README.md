@@ -1,36 +1,32 @@
-# 
+# Professional README Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-
-
+A node.js command line README generator that takes a users inputs and created a professional README
 ## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contribution](#contribution)
-- [Testing](#testing)
-- [Credits](#credits)
-- [License](#license)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contribution](#contribution)
+* [Testing](#testing)
+* [License](#license)
 
 ## Installation 🧰
-
+To install please either clone or fork the repo and run npm install + node index.js
 
 ## Usage ⚙️
-
+To run the program - node index.js
 
 ## Contribution 🙏
-
+Fork the project to create changes. Any pull requsts will be approved if they imporve the project quality
 
 ## Testing ✔️
-
+There are currently no testing procedures for this application
 
 ## Questions ❓
-For any questions releated to this repo please [**Email**](mailto:) me.
-Checkout my [**GitHub**](https://github.com/) for more projects.
+* For any questions releated to this repo please [**Email**](mailto:aaturner1995@gmail.com) me.
+* Checkout my [**GitHub**](https://github.com/aturner1995) for more projects.
 
-## Credits 😊
+## License
 
-
-## License 📝
-MIT
+This project is licensed under the MIT license.

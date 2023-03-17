@@ -3,6 +3,7 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown');
 const renderLicenseBadge = require('./utils/renderLicenseBadge');
+const renderLicenseSection = require('./utils/licenseSection');
 
 // TODO: Create an array of questions for user input
 const questions = [
@@ -75,6 +76,7 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions).then(response => {
+        response.licenseSection = renderLicenseSection(response.license);
         response.licenseBadge = renderLicenseBadge(response.license);
         const content = generateMarkdown(response);
         writeToFile('./README.md', content);        
