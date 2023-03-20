@@ -4,6 +4,7 @@
 
 ## Description
 A node.js command line README generator that takes a users inputs and created a professional README
+
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -18,7 +19,7 @@ To install please either clone or fork the repo and run npm install + node index
 To run the program - node index.js
 
 ## Contribution 🙏
-Fork the project to create changes. Any pull requsts will be approved if they imporve the project quality
+Please email the repo user for instructions
 
 ## Testing ✔️
 There are currently no testing procedures for this application
