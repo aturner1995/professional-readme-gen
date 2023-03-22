@@ -17,7 +17,6 @@ To install please either clone or fork the repo and run npm install + node index
 
 ## Usage ⚙️
 To run the program - node index.js
-[Professional README Generator.webm](https://user-images.githubusercontent.com/120421650/226971370-d7ccc3ef-ac8e-400e-a2ca-5356bdfa8603.webm)
 
 ## Contribution 🙏
 Please email the repo user for instructions
