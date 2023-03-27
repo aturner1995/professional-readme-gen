@@ -3,6 +3,7 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
 ${data.licenseBadge}
+[![npm version](https://badge.fury.io/js/npm.svg)](https://badge.fury.io/js/npm)
 
 ## Description
 ${data.description}

@@ -1,6 +1,7 @@
 # Professional README Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![npm version](https://badge.fury.io/js/npm.svg)](https://badge.fury.io/js/npm)
 
 ## Description
 A node.js command line README generator that takes a users inputs and created a professional README
